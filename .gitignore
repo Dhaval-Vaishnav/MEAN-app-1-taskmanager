@@ -1,3 +1,6 @@
+# node_module see the all command and packages that are used in this project
+node_modules/
+
 # Logs
 logs
 *.log
